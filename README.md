@@ -1,44 +1,38 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Starring... SMC Showcase!*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jules-Elvin Andrade**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Starring... SMC Showcase!** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
-
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/pA0Bsgq"  ><a href="//imgur.com/a/pA0Bsgq">Jules-Elvin Andrade - WEB102 Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Kap!
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a great time re-discovering my lost love for Javascript from 1-2 years ago, and completing this Prework for WEB102 gave me
+a refreshing re-introduction back into the world of Javascript, as well as a solid chunk of techniques and concepts that I had
+NEVER even touched on previously. It was great to see the usage of arrow functions, DOM manipulation and this relationship
+between Javascript, HTML and JSON files come together so neatly - even if it was difficult to pin down at first. :D
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Jules-Elvin Andrade]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
