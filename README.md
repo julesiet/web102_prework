@@ -19,9 +19,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/pA0Bsgq"  ><a href="//imgur.com/a/pA0Bsgq">Jules-Elvin Andrade - WEB102 Prework</a
-
-GIF created with Kap!
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/pA0Bsgq"><a href="//imgur.com/a/pA0Bsgq">Jules-Elvin Andrade - WEB102 Prework</a
+                                                                                                                                            
+- GIF created with Kap!
 
 ## Notes
 
